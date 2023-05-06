@@ -19,7 +19,7 @@ const Contact = () => {
           <p className="mt-2">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
           <input className="mt-3" type="text" placeholder="Your name *" />
           <input className="mt-3" type="email" placeholder="Your E-mail *" />
-          <textarea className="mt-3" rows={3} defaultValue={"Message"} />
+          <textarea className="mt-3" rows={3} placeholder="Message" />
           <button className="readmore-btn post-btn mt-3" type="button">Post A Comment</button>
         </div>
       </div>
