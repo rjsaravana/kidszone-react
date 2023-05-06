@@ -1,6 +1,6 @@
 import "./style.css";
 
-const Nav = () => {
+const Navbar = () => {
   return (
     <div className="container-fluid nav-stick col-10">
     <nav className="navbar navbar-expand-lg p-3" id="navbar">
@@ -33,4 +33,4 @@ const Nav = () => {
     );
 };
 
-export { Nav };
+export { Navbar };
